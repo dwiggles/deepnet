@@ -1,6 +1,10 @@
 deepnet
 =======
 
+
+## 2024.07.18 Dropout: A Simple Way to Prevent Neural Networks from Overfitting ##
+## 2024.07.18 https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf ##
+
 ## Implementation of some deep learning algorithms. ##
 
 GPU-based python implementation of
